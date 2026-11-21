@@ -1,3 +1,4 @@
 project: oss-hw2-1077
 owner: sonhohyeong
-status: main-sonhohyeong
+status: merged-1077 by sonhohyeong
+
